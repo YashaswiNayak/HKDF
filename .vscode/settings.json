@@ -58,7 +58,8 @@
         "stop_token": "cpp",
         "thread": "cpp",
         "cfenv": "cpp",
-        "cinttypes": "cpp"
+        "cinttypes": "cpp",
+        "iomanip": "cpp"
     },
     "cmake.sourceDirectory": "/home/yashaswi/data_compression/vcpkg/buildtrees/libpng/src/v1.6.40-2d42afc4f5.clean"
 }
